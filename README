@@ -1,0 +1,5 @@
+/*
+ * SHORT DESCRIPTION
+ */
+It's my simple clock for avr at90s1200 chip, assemblies into ~300 bytes.
+Has 2 modes -- configuring & working.
